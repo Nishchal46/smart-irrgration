@@ -1,3 +1,3 @@
-# automatic irrgreation sysytem
+# smart irrigation system
 
 Agriculture is the source of living of majority Indians and its also has a countless influence on economy of the country. The objective of over project is to reduced the man power or manual involvement by the farmer in the farming field by implementing automatic irrigation system. Were as this system has two different process in this operation were one operation and also been used in urban areas. This “AUTOMATIC IRRIGATION SYSTEM” Is to enhance water to crop and at the same to maintain water management by over irrigation and over flow of water from tank this operation is all controlled by Arduino micro-controller and GSM module with water sensor and soil moisture sensor. The information to farmer is given through phone call. We used voice module to inform farmer about the farming field and Raspberry Pi to deduct weather the plants is good health .
